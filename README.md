@@ -7,4 +7,8 @@
 - M.Tech., CS [Data Science Specialization]	      | Jawaharlal Nehru Technological University Anantapur (_September 2019 - February 2022_)	 
 - B.Tech., CSE                                    | G. Pullareddy Engineering College (Autonomous) (_Sep 2014 - May 2018_)
 
-## Work Experience
+## Experience
+
+## Projects
+
+## Publications
