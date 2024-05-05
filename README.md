@@ -1,16 +1,10 @@
 # Pallapu Mohan Krishna
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Data Science and Artificial Intelligence | Indian Institute of Technology Guwahati (_July 2022 - Present_)								       		
+- M.Tech., CS [Data Science Specialization]	| Jawaharlal Nehru Technological University Anantapur (_September 2019 - February 2022_)	 			        		
+- B.Tech., CSE | G. Pullareddy Engineering College (Autonomous) (_Sep 2014 - May 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-
-## Talks & Lectures
-
-## Publications
