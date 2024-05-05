@@ -4,6 +4,6 @@ plugins:
 
 title: Pallapu Mohan Krishna
 logo: /assets/images/pmk_photo.jpg
-description: text below image
-show_downloads: true
+description: Pallapu Mohan Krishna #description
+#show_downloads: true
 theme: jekyll-theme-minimal
