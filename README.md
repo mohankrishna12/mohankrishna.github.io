@@ -1,6 +1,6 @@
 # Pallapu Mohan Krishna
 
-#### Technical Skills: Python
+#### Computer Vision , Machine Learning , Deep Learning
 
 ## Education
 - Ph.D., Data Science and Artificial Intelligence | Indian Institute of Technology Guwahati (_July 2022 - Present_)								       		
