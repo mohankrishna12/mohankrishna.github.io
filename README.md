@@ -1,4 +1,4 @@
-# Data Scientist
+# Pallapu Mohan Krishna
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
