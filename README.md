@@ -1,6 +1,8 @@
 # Pallapu Mohan Krishna
 
-#### Computer Vision , Machine Learning , Deep Learning
+#### Research Interests: Computer Vision , Machine Learning , Deep Learning
+
+## About
 
 ## Education
 - Ph.D., Data Science and Artificial Intelligence | Indian Institute of Technology Guwahati (_Ongoing_)								       		
