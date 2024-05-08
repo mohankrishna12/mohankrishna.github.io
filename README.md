@@ -12,13 +12,15 @@ I’m a Research Scholar at Indian Institute Of Technology Guwahati in Mehta Fam
 
 ## Experience
 
-    ### DeepInfinity.ai (https://deepinfinity.ai/) UK
+### DeepInfinity.ai (https://deepinfinity.ai/) UK
+
     - Deep Learning Engineer (_Oct 2022 to Mar 2023_)
       Worked on Biomedical Imaging closely with the AI Research Team in Azure Machine Learning Studio. Employed
       State-of-the-art models on couple of Hospital provided Medical imaging data such as Chest X Ray, Lung CT,Brain
       MRI to make inferences on diagnosis/classification (binary/multi class) of COVID-19 as well as Brain Tumour and
       it’s types.
-    ### Infosys (https://www.infosys.com/) Bangalore, India
+### Infosys (https://www.infosys.com/) Bangalore, India
+
     - Backend Engineer (_Dec 2021 to Jul 2022_)
       Worked as Backend .Net Developer for UK based client called Talk Talk telecom group where I had implemented
       several web APIs for TalkTalk Business, which follow microservices architecture.
