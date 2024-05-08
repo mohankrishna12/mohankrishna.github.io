@@ -19,6 +19,7 @@ I’m a Research Scholar at Indian Institute Of Technology Guwahati in Mehta Fam
       State-of-the-art models on couple of Hospital provided Medical imaging data such as Chest X Ray, Lung CT,Brain
       MRI to make inferences on diagnosis/classification (binary/multi class) of COVID-19 as well as Brain Tumour and
       it’s types.
+  
 ### Infosys                 Bangalore, India
 
 - Backend Engineer (_Dec 2021 to Jul 2022_)
