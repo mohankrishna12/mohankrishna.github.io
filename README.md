@@ -27,5 +27,25 @@ I’m a Research Scholar at Indian Institute Of Technology Guwahati in Mehta Fam
       
 ## Projects
 
+-Pulse Bird Sound Recognition 
+    This project is as part of our course work named Computing With Signals(DA623). We used a publicly available
+dataset of BIRDCLEF 2023 to train and test our model. We extracted the features from the short recordings of
+individual bird calls. We analyzed both the features of melspectrogram and train metadata (provided).
+Features extracted were fed to the Convolution Neural Network for training and used cross entropy loss function
+in the end for the multi class classification results.The performance of the model is evaluated using metrics such
+as macro average precision(map) along with accuracy.
+
+-Deep Learning Approach For Diagnosing COVID19 In CT Images
+    The Proposed framework, low level features from the Lungs Computed Tomography Images are extracted using a
+Pretrained model named Inception V3 and then fed to a fully connected layer then binary classification whether
+the CT Scan has COVID +ve or -ve .
+
+-Automation Of Home Appliances using Raspberry Pi3 Model B
+    Automation of home appliances like fan, light etc using IOT. Implementation of the automation done in two ways
+one is from website based and other is from Voice Commands to control the appliances (like Turn on light , Turn
+off fan etc). For this we have used Raspberry Pi3 Model B and a Relay Module and Google Tasker application.
+This Project got appreciation of one of the best projects in the CSE department Project expo of our college Silver
+Jubilee celebrations held in 2017.
+
 ## Publications
 - Krishna, P.M., Bindu, C.S., Kumar, E.S. (2022). Deep Learning Approach for Diagnosing COVID-19 in CT Images. In: Jacob, I.J., Kolandapalayam Shanmugam, S., Bestak, R. (eds) Data Intelligence and Cognitive Informatics. Algorithms for Intelligent Systems. Springer, Singapore. <a href= "https://doi.org/10.1007/978-981-16-6460-1_52">https://doi.org/10.1007/978-981-16-6460-1_52 </a>
