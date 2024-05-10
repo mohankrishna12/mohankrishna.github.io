@@ -27,7 +27,7 @@ I’m a Research Scholar at Indian Institute Of Technology Guwahati in Mehta Fam
       
 ## Projects
 
--Pulse Bird Sound Recognition 
+- Pulse Bird Sound Recognition 
     
   This project is as part of our course work named Computing With Signals(DA623). We used a publicly available
 dataset of BIRDCLEF 2023 to train and test our model. We extracted the features from the short recordings of
@@ -36,13 +36,13 @@ Features extracted were fed to the Convolution Neural Network for training and u
 in the end for the multi class classification results.The performance of the model is evaluated using metrics such
 as macro average precision(map) along with accuracy.
 
--Deep Learning Approach For Diagnosing COVID19 In CT Images
+- Deep Learning Approach For Diagnosing COVID19 In CT Images
     
   The Proposed framework, low level features from the Lungs Computed Tomography Images are extracted using a
 Pretrained model named Inception V3 and then fed to a fully connected layer then binary classification whether
 the CT Scan has COVID +ve or -ve .
 
--Automation Of Home Appliances using Raspberry Pi3 Model B
+- Automation Of Home Appliances using Raspberry Pi3 Model B
 
   Automation of home appliances like fan, light etc using IOT. Implementation of the automation done in two ways
 one is from website based and other is from Voice Commands to control the appliances (like Turn on light , Turn
